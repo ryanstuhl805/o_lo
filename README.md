@@ -74,3 +74,27 @@ Thanks for all the fish
 
 #end of output
 ```
+
+## For Developers
+
+You may run the rspec tests with the following:
+
+```
+bundle exec rspec spec
+```
+
+## Contributions
+
+Looking to contribute or add something to this plucky little project?
+
+## TODO
+
+- If the `thing` argument is an object, like `current_user`, add `.inspect` to the "thing"
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/ryanstuhl805/o_lo. This project was started as a hobby and is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## License
+
+The Ruby Gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
