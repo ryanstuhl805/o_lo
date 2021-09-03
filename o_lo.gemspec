@@ -6,6 +6,7 @@ require 'o_lo/version'
 Gem::Specification.new do |s|
   s.name               = 'o_lo'
   s.version            = Olo::VERSION
+  s.executables        << 'o_lo'
   s.platform           = Gem::Platform::RUBY
   s.summary            = 'Obvious Logger for use in development.'
   s.description        = 'Displays output in logs with decorators, making it easy to find in a log stream.'

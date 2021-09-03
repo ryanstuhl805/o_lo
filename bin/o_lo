@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'o_lo'
+puts Olo.log("Greetings")
